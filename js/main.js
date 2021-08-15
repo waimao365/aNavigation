@@ -75,10 +75,10 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '开发',
-      link: 'http://kksan.top/posts/12023/',
+      name: 'it之家',
+      link: 'https://www.ithome.com/',
       box_shadow: '#F18033',
-      icon: 'img/log.png',
+      icon: 'https://i.loli.net/2021/08/15/rAsW3GhXuRakgJv.png',
     }, {
       name: '酷安',
       link: 'https://www.coolapk.com',
