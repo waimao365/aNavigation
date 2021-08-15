@@ -140,18 +140,18 @@ $(function() {
       box_shadow: '#3279ea',
       icon: 'img/xiaozhong.png',
     }, {
-      name: '数字尾巴',
-      link: 'https://www.dgtle.com/',
+      name: '导航一',
+      link: 'https://it.163168.xyz/',
       box_shadow: '#62677b',
       icon: 'img/shuziweiba.png',
     }, {
-      name: '疫情跟踪',
-      link: 'https://ncov.dxy.cn/ncovh5/view/pneumonia',
+      name: '导航二',
+      link: 'http://nav.waimao8.tk/',
       box_shadow: '#7C5DC7',
       icon: 'img/ding.png',
     }, {
-      name: '疫情辟谣',
-      link: 'https://vp.fact.qq.com/home',
+      name: '导航三',
+      link: 'https://opage.waimao8.tk/',
       box_shadow: '#00A0E9',
       icon: 'img/true.png',
     }]
