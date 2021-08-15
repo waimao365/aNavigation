@@ -75,7 +75,7 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '开发日志',
+      name: '开发',
       link: 'http://kksan.top/posts/12023/',
       box_shadow: '#F18033',
       icon: 'img/log.png',
@@ -100,7 +100,7 @@ $(function() {
       box_shadow: '#0078D8',
       icon: 'img/zhihulogo.png',
     }, {
-      name: '什么值得买',
+      name: '值得买',
       link: 'https://www.smzdm.com/',
       box_shadow: '#F57923',
       icon: 'https://i.loli.net/2021/08/15/54xOdXlqK8kW2Va.png',
