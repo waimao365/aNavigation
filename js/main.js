@@ -100,10 +100,10 @@ $(function() {
       box_shadow: '#0078D8',
       icon: 'img/zhihulogo.png',
     }, {
-      name: '小米商城',
-      link: 'https://www.mi.com/',
+      name: '什么值得买',
+      link: 'https://www.smzdm.com/',
       box_shadow: '#F57923',
-      icon: 'img/mi.png',
+      icon: 'https://i.loli.net/2021/08/15/54xOdXlqK8kW2Va.png',
     }, {
       name: 'unsplash',
       link: 'https://unsplash.com/',
